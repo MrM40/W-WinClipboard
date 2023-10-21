@@ -1,4 +1,4 @@
-# WitWinClipboard
+# W-WinClipboard
 
 * GET and SET text from/to Windows clipboard.
 * C# wrapper of the native Windows User32 clipboard functions `GetClipboardData` and `SetClipboardDat`
