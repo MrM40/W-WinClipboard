@@ -8,5 +8,5 @@ This is usefull for console applications.
 
 All credits to https://github.com/CopyText/TextCopy 
 
-WitWinClipboard is just a stripped-down version, the TextCopy project include multi-OS support and synchronous functions.
+W-WinClipboard is just a stripped-down version, the TextCopy project include multi-OS support and synchronous functions.
 
